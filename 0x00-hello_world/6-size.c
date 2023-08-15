@@ -1,10 +1,10 @@
 #include <stdio.h>
-int main(void)
 /**
  * main - entry point
  *
  * return: Always 0 (success)
  */	
+int main(void)
 {
 	int a;
 	long int b;
